@@ -10,7 +10,7 @@ import {
 
 const HeaderSection = () => {
   return (
-    <div className="sticky top-0 z-50 grid grid-cols-3 shadow-md p-5 md:px-10">
+    <div className="sticky bg-white top-0 z-50 grid grid-cols-3 shadow-md p-5 md:px-10">
       {/* left */}
       <div className="relative flex justify-between items-center h-10 cursor-pointer my-auto">
         <Image
